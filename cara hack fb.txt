@@ -1,0 +1,6 @@
+
+$ apt update && apt upgrade
+$ pkg install git python python2
+$ pip2 install mechanize requests
+$ sh requests.sh
+$ python2 hack.py
